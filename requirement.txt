@@ -1,0 +1,12 @@
+streamlit
+apscheduler
+pandas
+numpy
+scipy
+talib
+moneycontrol api
+nltk
+vaderSentiment
+nselib
+beautifulsoup4
+pandas market calendar
